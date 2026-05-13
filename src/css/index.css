@@ -19,6 +19,7 @@ header{
 
 .logo{
     width:120px;
+    height: auto;
 }
 
 nav ul{
@@ -45,10 +46,9 @@ section{
     flex-direction: column;
     justify-content: center; 
     align-items: center;   
-    min-height: 80vh;       
+    min-height: 80vh; 
+    background-color: #fbe5e0;      
     padding: 100px 20px;
-    background: linear-gradient(rgba(232, 147, 116, 0.2), rgba(232, 147, 116, 0.2)), 
-                url('https://images.unsplash.com/photo-1621319330343-4217f30018b3?auto=format&fit=crop&q=80&w=2070') no-repeat center center/cover;
     color: #333;
     text-align: center;
 }
@@ -74,49 +74,16 @@ section{
     gap: 20px;
 }
 
-button {
-    padding: 15px 35px;   
-    font-size: 1.1rem;
-    border-radius: 50px;   
-    cursor: pointer;
-    font-weight: 700;
-    transition: transform 0.2s, background 0.3s;
+button{
+    padding:12px 20px;
+    margin:5px;
+    border-radius:8px;
+    cursor:pointer;
+    font-weight:600;
 }
 
 button:hover {
     transform: translateY(-3px);
-}
-
-.primary {
-    background: #e76f51;
-    color: white;
-    border: 2px solid #e76f51;
-}
-
-.secondary {
-    background: transparent;
-    border: 2px solid #e76f51;
-    color: #e76f51;
-}
-
-/* section h2{
-    font-size:4.5rem;
-    margin-bottom: 25px;
-    color:#e76f51;
-}
-
-p{
-    max-width:600px;
-    margin:0 auto 25px;
-    line-height:1.6;
-}
-
-button{
-    padding:12px 22px;
-    margin:10px;
-    border-radius:6px;
-    cursor:pointer;
-    font-weight:600;
 }
 
 .primary{
@@ -126,7 +93,7 @@ button{
 }
 
 .primary:hover{
-    background:#f4a261;
+    background:#f34317;
 }
 
 .secondary{
@@ -138,9 +105,10 @@ button{
 .secondary:hover{
     background:#e76f51;
     color:white;
-} */
+} 
 
 .gallery-title{
+    color: #e76f51;
     text-align:center;
     margin-bottom:30px;
     font-size:4.4rem;
