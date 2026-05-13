@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/components/static/css/main.de3d8f20.css",
+    "main.js": "/components/static/js/main.417559f6.js",
+    "static/media/gowns.jpg": "/components/static/media/gowns.6e7e2066a6034feff019.jpg",
+    "static/media/bags.jpg": "/components/static/media/bags.0807ac291cc420c30892.jpg",
+    "static/media/hat.jpg": "/components/static/media/hat.340f05bb08b13e7e4488.jpg",
+    "static/media/shirt.jpg": "/components/static/media/shirt.b16110b0778807a04eba.jpg",
+    "index.html": "/components/index.html",
+    "main.de3d8f20.css.map": "/components/static/css/main.de3d8f20.css.map",
+    "main.417559f6.js.map": "/components/static/js/main.417559f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3d8f20.css",
+    "static/js/main.417559f6.js"
+  ]
+}
