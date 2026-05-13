@@ -40,11 +40,11 @@ Planned updates to enhance the platform from a showcase site to a full e-commerc
 * Creation of a backend CMS for streamlined product management.
 
 ### Author
-**Lateefat Obisesan**
+**Lateefat Obisesan**:
 *Frontend Developer & Creator of Lephinton Crochet website*
 
 ### Demo
-Click **[here](lateefat-obisesan.github.io/components/)** to see the project.
+**Click [here](https://lateefat-obisesan.github.io/components/) to see the project.**
 
 ### License
 This project is created for educational and business portfolio purposes.
